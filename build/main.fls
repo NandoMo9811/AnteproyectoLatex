@@ -2,12 +2,47 @@ PWD c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex
 INPUT C:\Users\freer\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\main.tex
 OUTPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.log
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\ieeetran\IEEEtran.cls
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
@@ -25,7 +60,10 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1ptm.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1ptm.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\t1ptm.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8t.tfm
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\newtxtext.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\xpatch\xpatch.sty
@@ -100,6 +138,10 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.c
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\ragged2e\ragged2e.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tocloft\tocloft.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
@@ -109,14 +151,6 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
@@ -184,6 +218,41 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmsntxsy.fd
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\lmxntxexx.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-BoldItalic-tlf-t1.tfm
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -203,8 +272,6 @@ OUTPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.pd
 INPUT .\capitulos\portada.tex
 INPUT .\capitulos\portada.tex
 INPUT capitulos\portada.tex
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
 INPUT .\figuras\LogoUniCauca.png
 INPUT .\figuras\LogoUniCauca.png
 INPUT .\figuras\LogoUniCauca.png
@@ -212,10 +279,14 @@ INPUT .\figuras\LogoUniCauca.png
 INPUT .\figuras\LogoUniCauca.png
 INPUT .\figuras\LogoUniCauca.png
 INPUT .\figuras\LogoUniCauca.png
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
-INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
 INPUT C:\Users\freer\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ec-tlf.enc
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-t1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bold-tlf-t1.tfm
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
+OUTPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.aux
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
