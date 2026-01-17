@@ -2,7 +2,7 @@
 % Anteproyecto de trabajo de grado - FIET Univerisidad del Cauca
 % ================================================================================================ %
 
-\documentclass[12pt,oneside]{report}
+\documentclass[12pt,letterpaper,onecolumn]{IEEEtran}
 
 % ------------------------------------------ %
 % Idioma y Codificación
@@ -20,11 +20,10 @@
 % Margenes
 % ------------------------------------------ %
 \usepackage[
-    a4paper,
     left=3cm,
-    right=2.5cm,
+    right=3cm,
     top=3cm,
-    bottom=2.5cm
+    bottom=3cm
     ]{geometry}
 
 % ------------------------------------------ %
@@ -36,16 +35,27 @@
 % ------------------------------------------ %
 % Paquetes adicionales
 % ------------------------------------------ %
+\usepackage{ragged2e}
+\usepackage{tocloft}
 \usepackage{graphicx}
-\usepackage{caption}
-
-\usepackage{booktabs}
-\usepackage{array}
-
-\usepackage{amsmath}
-\numberwithin{equation}{chapter}
-
+%\usepackage{caption}
+%\usepackage{booktabs}
+%\usepackage{array}
+%\usepackage{amsmath}
 \usepackage[hidelinks]{hyperref}
+
+% ------------------------------------------ %
+% Ajuste de Tabla de Contenidos
+% ------------------------------------------ %
+\addto\captionsspanish{
+    \renewcommand{\contentsname}{TABLA DE CONTENIDO}
+}
+
+\makeatletter
+\renewcommand{\tableofcontents}{\section*{\centering \Large \bfseries TABLA DE CONTENIDO}
+    \@starttoc{toc}
+}
+\makeatother
 
 % ------------------------------------------ %
 % Información del documento
@@ -73,6 +83,12 @@
 \begin{document}
 
 \input{capitulos/portada.tex}
+
+\justifying
+\tableofcontents
+\newpage
+
+
 
 
 % ------------------------------------------ %
