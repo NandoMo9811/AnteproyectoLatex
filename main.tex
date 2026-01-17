@@ -27,10 +27,12 @@
     ]{geometry}
 
 % ------------------------------------------ %
-% Interlineado
+% Interlineado y espaciado
 % ------------------------------------------ %
 \usepackage{setspace}
 \onehalfspacing
+
+\setlength{\parskip}{6pt}
 
 % ------------------------------------------ %
 % Paquetes adicionales
@@ -43,6 +45,7 @@
 %\usepackage{array}
 %\usepackage{amsmath}
 \usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
 
 % ------------------------------------------ %
 % Ajuste de Tabla de Contenidos
@@ -60,6 +63,11 @@
     \@starttoc{toc}
 }
 \makeatother
+
+\renewcommand{\thesection}{\arabic{section}}
+
+\titleformat{\section}
+  {\Large\bfseries}{\thesection}{1em}{}
 
 % ------------------------------------------ %
 % Información del documento
@@ -92,13 +100,16 @@
 \tableofcontents
 \newpage
 
+\section{Planteamiento del Problema}
+\input{capitulos/planteamientoProblema.tex}
 
-
+\section{Estado del Arte}
+\input{capitulos/estadoArte.tex}
 
 % ------------------------------------------ %
 % Bibliografía (BibTeX - IEEE)
 % ------------------------------------------ %
 \bibliographystyle{IEEEtran}
-\bibliography{Bibliografía}
+\bibliography{Bibliografia}
 
 \end{document}

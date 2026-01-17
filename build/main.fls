@@ -198,6 +198,8 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\reru
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\t1ntxtlf.fd
@@ -265,10 +267,10 @@ INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
+OUTPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.pdf
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
 OUTPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
-OUTPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.pdf
 INPUT .\capitulos\portada.tex
 INPUT .\capitulos\portada.tex
 INPUT capitulos\portada.tex
@@ -286,7 +288,68 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Bo
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ot1minntx.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi7.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy7.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxmia.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsym.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\newtx\untxsyc.fd
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 OUTPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.toc
+INPUT .\capitulos\planteamientoProblema.tex
+INPUT .\capitulos\planteamientoProblema.tex
+INPUT capitulos\planteamientoProblema.tex
+INPUT .\capitulos\estadoArte.tex
+INPUT .\capitulos\estadoArte.tex
+INPUT capitulos\estadoArte.tex
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi5.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsy5.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexx.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmia.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.aux
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.out
@@ -294,3 +357,5 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmb.pfb
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmr.pfb
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\ztmri.pfb
