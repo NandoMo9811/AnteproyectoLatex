@@ -52,7 +52,11 @@
 }
 
 \makeatletter
-\renewcommand{\tableofcontents}{\section*{\centering \Large \bfseries TABLA DE CONTENIDO}
+\renewcommand{\tableofcontents}{
+    \begin{center}
+        \Large\bfseries TABLA DE CONTENIDO
+    \end{center}
+    \vspace{1em}
     \@starttoc{toc}
 }
 \makeatother
