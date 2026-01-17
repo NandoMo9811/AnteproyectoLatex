@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex build/main"] 0 "build/main.aux" "build/main.bbl" "build/main" 1768682722.6346 0
+["bibtex build/main"] 0 "build/main.aux" "build/main.bbl" "build/main" 1768682854.55095 0
   "Bibliografía.bib" 0 -1 0 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "build/main.aux" 0 -1 0 "pdflatex"
@@ -7,7 +7,7 @@
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1768682720.93234 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768682722.63532 0
+["pdflatex"] 1768682852.78635 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768682854.55158 0
   "C:/Users/freer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1768681216 122695 284aa43fd9596bfdbe93b5e0c6c5df4b ""
   "C:/Users/freer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1768674404 13333487 36f5e3e487a6f7d6d912481b1791c68c ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1736607166 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
@@ -101,11 +101,11 @@
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "build/main.aux" 1768682721 406 9aa7480d53cb6ec4623a01eb8cb5148f "pdflatex"
+  "build/main.aux" 1768682853 406 9aa7480d53cb6ec4623a01eb8cb5148f "pdflatex"
   "build/main.bbl" 0 -1 0 "bibtex build/main"
-  "build/main.out" 1768682721 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "build/main.out" 1768682853 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" 1768681944 2350 5905b55534aaee2f83024f3f8427d7e3 ""
-  "capitulos/portada.tex" 1768682720 957 31e558c91107aa71e50444d2d200a772 ""
+  "capitulos/portada.tex" 1768682852 971 19f28b4e66f1fd7a279a6be442f9ceb4 ""
   "figuras/LogoUniCauca.png" 1764863559 269365 ab257b2937f9a4ff58d2250db9d29ff5 ""
   "main.tex" 1768681944 2350 5905b55534aaee2f83024f3f8427d7e3 ""
   (generated)
