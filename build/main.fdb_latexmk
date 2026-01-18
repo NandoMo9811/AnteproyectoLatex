@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex build/main"] 1768760438.77204 "build/main.aux" "build/main.bbl" "build/main" 1768760440.98479 0
+["bibtex build/main"] 1768768145.59204 "build/main.aux" "build/main.bbl" "build/main" 1768768148.29314 0
   "./Bibliografia.bib" 1768695746 31059 fce1b05cb74c92e1e8abb9c3f57602b1 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "build/main.aux" 1768760440 5475 ecb3f484725cd6578a0d23006128b4ca "pdflatex"
+  "build/main.aux" 1768768147 6167 d06e953be0ce42e5f402fb5b77738471 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1768760439.06224 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768760440.98535 0
+["pdflatex"] 1768768145.9834 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768768148.29378 0
   "C:/Users/freer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1768690776 122695 284aa43fd9596bfdbe93b5e0c6c5df4b ""
   "C:/Users/freer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1768674404 13333487 36f5e3e487a6f7d6d912481b1791c68c ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1736607166 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
@@ -70,10 +70,14 @@
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty" 1761900684 5525 1593ca62a2554dd7423fc8a4e5a82125 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1761900684 5048 0270515b828149155424600fd2d58ac5 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty" 1761900684 2846 e26604d3d895e65d874c07f30c291f3f ""
+  "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty" 1696169587 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
+  "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty" 1696169587 72619 ee90b6612147680fd73c3b1406a74245 ""
+  "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/caption/ltcaption.sty" 1696169587 7418 021d7c4eb11bde94592761855a3d046e ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/carlisle/scalefnt.sty" 1522607821 1360 df2086bf924b14b72d6121fe9502fcdb ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1623003186 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1759409308 46885 8953c67ffba03252c6090aa19568b8ba ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/figureversions/figureversions.sty" 1746359279 18666 2ca37665798a8bb43e1c59968f22e2aa ""
+  "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty" 1469023953 6916 16d2656a1984957e674b149555f1ea1d ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/fontaxes/fontaxes.sty" 1768130287 3035 640dbe69f1693da9dfa91b979b3bb55c ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg" 1578053545 1104 7ac475a4e3466b0b43e138e9356bda83 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty" 1578053545 42759 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -126,11 +130,12 @@
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "build/main.aux" 1768760440 5475 ecb3f484725cd6578a0d23006128b4ca "pdflatex"
-  "build/main.bbl" 1768760438 13842 f9b46ca7cc0a0e7f0ecf8648105f766d "bibtex build/main"
-  "build/main.out" 1768760440 3884 f5cdff61d21b7592c3f7f7f95fc2d3eb "pdflatex"
-  "build/main.toc" 1768760440 1724 f87a09e6d53e5d925ce5df2d27c2c895 "pdflatex"
-  "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" 1768759701 3781 93c596d586be1af848f8996cd7a2025a ""
+  "build/main.aux" 1768768147 6167 d06e953be0ce42e5f402fb5b77738471 "pdflatex"
+  "build/main.bbl" 1768768145 13842 f9b46ca7cc0a0e7f0ecf8648105f766d "bibtex build/main"
+  "build/main.out" 1768768147 4356 641536a0938c29d5a99a9f333ac5efa9 "pdflatex"
+  "build/main.toc" 1768768147 1975 d5fcbef8c87b65cc786384a3b59e08ed "pdflatex"
+  "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" 1768768098 3889 386aaee70a295afc54877fa758a5ecc7 ""
+  "capitulos/actividadesCronograma.tex" 1768768142 2557 9f45836490765dc0c18d9d20ac84c038 ""
   "capitulos/condicionesEntrega.tex" 1768706965 813 af91368867d85fa87d03377eff37be58 ""
   "capitulos/estadoArte.tex" 1768759087 16193 9664e0929a62cedfca1fd3a6ceb92d0d ""
   "capitulos/metodologia.tex" 1768760436 4870 40e4e1c8e4e7b6b74913e23984f26b51 ""
@@ -138,8 +143,9 @@
   "capitulos/planteamientoProblema.tex" 1768753824 6207 06b2860fb5eb4515048a630ba7fa4924 ""
   "capitulos/portada.tex" 1768753418 1015 67ba58e9630e288302131927ed79f4c4 ""
   "capitulos/propiedadIntelectual.tex" 1768706730 5637 54368159d30974cbe46196693fc03d89 ""
+  "figuras/CronogramaActividades.png" 1768767444 140113 bf61f32aff7afaf16487c7d6f028909a ""
   "figuras/LogoUniCauca.png" 1764863559 269365 ab257b2937f9a4ff58d2250db9d29ff5 ""
-  "main.tex" 1768759701 3781 93c596d586be1af848f8996cd7a2025a ""
+  "main.tex" 1768768098 3889 386aaee70a295afc54877fa758a5ecc7 ""
   "tablas/tablaResumenArte.tex" 1768753132 3819 b63e3646cfaaf8c5608565f83369de0d ""
   (generated)
   "build/main.aux"

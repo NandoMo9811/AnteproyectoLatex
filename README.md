@@ -9,3 +9,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 0.0.3
 * Se adiciona al documento la sección de Metodología.
+
+# Versión 0.0.4
+* Se adiciona al documento la sección de Actividades y Cronograma
