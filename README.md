@@ -6,3 +6,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 0.0.2
 * Se cambia el nombre del archivo "cronograma.tex" a "actividadesCronograma.tex" que busca incorporar en un solo cápitulo las actividades y cronograma del proyecto.
+
+# Versión 0.0.3
+* Se adiciona al documento la sección de Metodología.
