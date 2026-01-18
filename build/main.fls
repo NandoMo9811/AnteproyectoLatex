@@ -343,6 +343,9 @@ INPUT tablas\tablaResumenArte.tex
 INPUT .\capitulos\objetivos.tex
 INPUT .\capitulos\objetivos.tex
 INPUT capitulos\objetivos.tex
+INPUT .\capitulos\metodologia.tex
+INPUT .\capitulos\metodologia.tex
+INPUT capitulos\metodologia.tex
 INPUT .\capitulos\condicionesEntrega.tex
 INPUT .\capitulos\condicionesEntrega.tex
 INPUT capitulos\condicionesEntrega.tex

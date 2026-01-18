@@ -13,6 +13,7 @@
 \contentsline {section}{\numberline {3}Objetivos}{9}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Objetivo General}{9}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Objetivos Especificos}{9}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Condiciones de Entrega}{9}{section.4}%
-\contentsline {section}{Referencias}{10}{section.4}%
-\contentsline {section}{Acta de Propiedad Intelectual}{12}{section.4}%
+\contentsline {section}{\numberline {4}Metodología}{9}{section.4}%
+\contentsline {section}{\numberline {5}Condiciones de Entrega}{11}{section.5}%
+\contentsline {section}{Referencias}{12}{section.5}%
+\contentsline {section}{Acta de Propiedad Intelectual}{14}{section.5}%
