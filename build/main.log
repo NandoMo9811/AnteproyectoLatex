@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.17)  17 JAN 2026 21:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.17)  17 JAN 2026 21:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -823,7 +823,7 @@ Package hyperref Info: Link coloring OFF on input line 105.
 \openout3 = `main.out'.
 
  (capitulos/portada.tex
-<figuras/LogoUniCauca.png, id=50, 504.88625pt x 513.92pt>
+<figuras/LogoUniCauca.png, id=62, 504.88625pt x 513.92pt>
 File: figuras/LogoUniCauca.png Graphic file (type png)
 <use figuras/LogoUniCauca.png>
 Package pdftex.def Info: figuras/LogoUniCauca.png  used on input line 12.
@@ -1096,7 +1096,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
 \T1/ntxtlf/m/n/9 ig-no-ra la di-men-sión
  []
 
-tablas/tablaResumenArte.tex:53: ignored error: Infinite glue shrinkage found in box being split [8]) [9]) (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
+tablas/tablaResumenArte.tex:53: ignored error: Infinite glue shrinkage found in box being split [8]) [9]) (capitulos/objetivos.tex [10]) (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
 (Font)              scaled to size 9.0pt on input line 30.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -1129,7 +1129,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 9.0pt on input line 30.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 5.5pt on input line 30.
- [10] [11] [12]) [13] (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.aux
+ [11] [12]) [13] (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1138,20 +1138,20 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 044F8594C22E5C8317EF74BD59779C5E;3033.
+(rerunfilecheck)             Checksum: C8200D1747312D7CD509F02DEA4B01A0;3429.
  ) 
 Here is how much of TeX's memory you used:
- 17514 strings out of 467871
- 271859 string characters out of 5418376
- 705810 words of memory out of 5000000
- 46063 multiletter control sequences out of 15000+600000
+ 17526 strings out of 467871
+ 272148 string characters out of 5418376
+ 705813 words of memory out of 5000000
+ 46069 multiletter control sequences out of 15000+600000
  777163 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,1602b,677s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,1602b,673s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on "c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.pdf" (14 pages, 428266 bytes).
+Output written on "c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.pdf" (14 pages, 431443 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 102 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

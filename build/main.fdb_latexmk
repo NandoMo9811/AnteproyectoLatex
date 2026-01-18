@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex build/main"] 1768701700.95917 "build/main.aux" "build/main.bbl" "build/main" 1768701718.83087 0
+["bibtex build/main"] 1768701921.69929 "build/main.aux" "build/main.bbl" "build/main" 1768701997.50265 0
   "./Bibliografia.bib" 1768695746 31059 fce1b05cb74c92e1e8abb9c3f57602b1 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "build/main.aux" 1768701718 4886 34087b49da688a96f1bf46d3d2d0ddcd "pdflatex"
+  "build/main.aux" 1768701996 5246 940673285f98bb1941254318875ec2eb "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1768701716.73926 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768701718.83211 0
+["pdflatex"] 1768701995.16244 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768701997.50325 0
   "C:/Users/freer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1768690776 122695 284aa43fd9596bfdbe93b5e0c6c5df4b ""
   "C:/Users/freer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1768674404 13333487 36f5e3e487a6f7d6d912481b1791c68c ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1736607166 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
@@ -126,16 +126,17 @@
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "build/main.aux" 1768701718 4886 34087b49da688a96f1bf46d3d2d0ddcd "pdflatex"
-  "build/main.bbl" 1768701701 13842 f9b46ca7cc0a0e7f0ecf8648105f766d "bibtex build/main"
-  "build/main.out" 1768701718 3033 044f8594c22e5c8317ef74bd59779c5e "pdflatex"
-  "build/main.toc" 1768701718 1279 1e6cfb35166bf9ea54ab4d2ace619bce "pdflatex"
-  "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" 1768701522 3433 2f3f243abbcc4c303b3201912c18be58 ""
+  "build/main.aux" 1768701996 5246 940673285f98bb1941254318875ec2eb "pdflatex"
+  "build/main.bbl" 1768701921 13842 f9b46ca7cc0a0e7f0ecf8648105f766d "bibtex build/main"
+  "build/main.out" 1768701996 3429 c8200d1747312d7cd509f02dea4b01a0 "pdflatex"
+  "build/main.toc" 1768701996 1516 693b627936906fa3e3e0312b9fdcd689 "pdflatex"
+  "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" 1768701918 3489 aaef9e1ab64147e6faa71236113d6075 ""
   "capitulos/estadoArte.tex" 1768701715 16002 1dbef97a8160270bd5dc916c533252ee ""
+  "capitulos/objetivos.tex" 1768701994 1118 21a738df77ee602af11bf756f5415eb6 ""
   "capitulos/planteamientoProblema.tex" 1768690506 6186 66c6ac5645fe55bccf41e3f80ecd63fd ""
   "capitulos/portada.tex" 1768682852 971 19f28b4e66f1fd7a279a6be442f9ceb4 ""
   "figuras/LogoUniCauca.png" 1764863559 269365 ab257b2937f9a4ff58d2250db9d29ff5 ""
-  "main.tex" 1768701522 3433 2f3f243abbcc4c303b3201912c18be58 ""
+  "main.tex" 1768701918 3489 aaef9e1ab64147e6faa71236113d6075 ""
   "tablas/tablaResumenArte.tex" 1768701278 3852 12d4e8d414e354d12a144949ef1784e2 ""
   (generated)
   "build/main.aux"

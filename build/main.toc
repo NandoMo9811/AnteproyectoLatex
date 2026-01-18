@@ -10,4 +10,7 @@
 \contentsline {subsubsection}{\numberline {2.2.5}Aplicaciones orientadas al contexto educativo}{8}{subsubsection.2.2.5}%
 \contentsline {subsection}{\numberline {2.3}Conclusiones}{10}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Aportes al proyecto}{10}{subsection.2.4}%
-\contentsline {section}{Referencias}{11}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Objetivos}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Objetivo General}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Objetivos Especificos}{11}{subsection.3.2}%
+\contentsline {section}{Referencias}{11}{subsection.3.2}%

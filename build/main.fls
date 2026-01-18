@@ -340,6 +340,9 @@ INPUT capitulos\estadoArte.tex
 INPUT .\tablas\tablaResumenArte.tex
 INPUT .\tablas\tablaResumenArte.tex
 INPUT tablas\tablaResumenArte.tex
+INPUT .\capitulos\objetivos.tex
+INPUT .\capitulos\objetivos.tex
+INPUT capitulos\objetivos.tex
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
