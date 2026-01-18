@@ -15,3 +15,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 0.0.5
 * Se adiciona al documento la sección de Recursos, Presupuesto y Fuentes de Financiación
+
+# Versión 0.1.0
+* Primera versión donde se tiene el trabajo completo y listo para revisiones del profesor y compañera.
