@@ -3,3 +3,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 0.0.1
 * Se cambio el enfoque del anteproyecto de "PREVENCIÓN" a "REDUCCIÓN" buscnado un termino intermedio entre "PREVENCIÓN" y "CONTROL" dado que los terminos anteriores son enfoques extremos. Por lo tanto, se busca un enfoque más intermedio.
+
+# Versión 0.0.2
+* Se cambia el nombre del archivo "cronograma.tex" a "actividadesCronograma.tex" que busca incorporar en un solo cápitulo las actividades y cronograma del proyecto.
