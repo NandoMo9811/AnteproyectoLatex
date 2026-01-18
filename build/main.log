@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.17)  17 JAN 2026 21:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.17)  17 JAN 2026 22:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -756,7 +756,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
 (Font)              scaled to size 24.0pt on input line 105.
 
--- Lines per column: 36 (approximate, difference = 5.7199pt).
+-- Lines per column: 44 (approximate, difference = 11.77354pt).
 LaTeX Info: Redefining \. on input line 105.
 LaTeX Info: Redefining \% on input line 105.
 (C:\Users\freer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -823,7 +823,7 @@ Package hyperref Info: Link coloring OFF on input line 105.
 \openout3 = `main.out'.
 
  (capitulos/portada.tex
-<figuras/LogoUniCauca.png, id=62, 504.88625pt x 513.92pt>
+<figuras/LogoUniCauca.png, id=65, 504.88625pt x 513.92pt>
 File: figuras/LogoUniCauca.png Graphic file (type png)
 <use figuras/LogoUniCauca.png>
 Package pdftex.def Info: figuras/LogoUniCauca.png  used on input line 12.
@@ -906,7 +906,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 
  [1
 
-] (capitulos/planteamientoProblema.tex [2]) [3] (capitulos/estadoArte.tex [4] [5] [6] [7] (tablas/tablaResumenArte.tex
+] (capitulos/planteamientoProblema.tex [2]) (capitulos/estadoArte.tex [3] [4] [5] [6] (tablas/tablaResumenArte.tex
 Underfull \hbox (badness 10000) in paragraph at lines 16--16
 []|\T1/ntxtlf/m/n/9 Family Sup-por-ted
  []
@@ -1096,7 +1096,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--51
 \T1/ntxtlf/m/n/9 ig-no-ra la di-men-sión
  []
 
-tablas/tablaResumenArte.tex:53: ignored error: Infinite glue shrinkage found in box being split [8]) [9]) (capitulos/objetivos.tex [10]) (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
+tablas/tablaResumenArte.tex:53: ignored error: Infinite glue shrinkage found in box being split [7]) [8]) (capitulos/objetivos.tex) (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
 (Font)              scaled to size 9.0pt on input line 30.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -1129,7 +1129,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 9.0pt on input line 30.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 (Font)              scaled to size 5.5pt on input line 30.
- [11] [12]) [13] (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.aux
+ [9] [10]) [11] (capitulos/propiedadIntelectual.tex [12]) [13] (c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1138,20 +1138,20 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C8200D1747312D7CD509F02DEA4B01A0;3429.
+(rerunfilecheck)             Checksum: 4DF35FB2F72EDBD48C48FB2EA70EF0A7;3632.
  ) 
 Here is how much of TeX's memory you used:
- 17526 strings out of 467871
- 272148 string characters out of 5418376
- 705813 words of memory out of 5000000
- 46069 multiletter control sequences out of 15000+600000
+ 17546 strings out of 467871
+ 272604 string characters out of 5418376
+ 705802 words of memory out of 5000000
+ 46076 multiletter control sequences out of 15000+600000
  777163 words of font info for 155 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,1602b,673s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,1602b,677s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on "c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.pdf" (14 pages, 431443 bytes).
+Output written on "c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.pdf" (14 pages, 438031 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 305 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
+ 134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
