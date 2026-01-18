@@ -40,9 +40,11 @@
 \usepackage{ragged2e}
 \usepackage{tocloft}
 \usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{longtable}
 %\usepackage{caption}
 %\usepackage{booktabs}
-%\usepackage{array}
 %\usepackage{amsmath}
 \usepackage[hidelinks]{hyperref}
 \usepackage{titlesec}
@@ -52,8 +54,12 @@
 % ------------------------------------------ %
 \addto\captionsspanish{
     \renewcommand{\contentsname}{TABLA DE CONTENIDO}
-}
+    }
 
+\addto\captionsspanish{
+    \renewcommand{\tablename}{Tabla}
+    }
+    
 \makeatletter
 \renewcommand{\tableofcontents}{
     \begin{center}
@@ -65,6 +71,10 @@
 \makeatother
 
 \renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
+\renewcommand{\thetable}{\arabic{table}}
+
 
 \titleformat{\section}
   {\Large\bfseries}{\thesection}{1em}{}

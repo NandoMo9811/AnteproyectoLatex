@@ -151,6 +151,12 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
@@ -331,6 +337,9 @@ INPUT capitulos\planteamientoProblema.tex
 INPUT .\capitulos\estadoArte.tex
 INPUT .\capitulos\estadoArte.tex
 INPUT capitulos\estadoArte.tex
+INPUT .\tablas\tablaResumenArte.tex
+INPUT .\tablas\tablaResumenArte.tex
+INPUT tablas\tablaResumenArte.tex
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl

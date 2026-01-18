@@ -1,4 +1,13 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Planteamiento del Problema}{2}{section.1}%
 \contentsline {section}{\numberline {2}Estado del Arte}{4}{section.2}%
-\contentsline {section}{Referencias}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Uso del smartphone y aplicación de la nomofobia en jóvenes adultos}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Trabajos Relacionados}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Intervenciones psicoeducativas y conductuales}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Aplicaciones móviles orientadas a autorregulación y cambio de hábitos}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Aplicaciones de medición y detección temprana}{7}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Intervenciones digitales basadas en persuasión y automonitoreo}{7}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Aplicaciones orientadas al contexto educativo}{8}{subsubsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.3}Conclusiones}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Aportes al proyecto}{10}{subsection.2.4}%
+\contentsline {section}{Referencias}{11}{subsection.2.4}%
