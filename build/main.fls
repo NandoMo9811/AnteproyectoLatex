@@ -165,6 +165,10 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.st
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption3.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\caption\ltcaption.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
@@ -364,6 +368,12 @@ INPUT .\figuras\CronogramaActividades.png
 INPUT .\figuras\CronogramaActividades.png
 INPUT .\figuras\CronogramaActividades.png
 INPUT .\figuras\CronogramaActividades.png
+INPUT .\capitulos\recursos.tex
+INPUT .\capitulos\recursos.tex
+INPUT capitulos\recursos.tex
+INPUT .\tablas\tablaRecursos.tex
+INPUT .\tablas\tablaRecursos.tex
+INPUT tablas\tablaRecursos.tex
 INPUT .\capitulos\condicionesEntrega.tex
 INPUT .\capitulos\condicionesEntrega.tex
 INPUT capitulos\condicionesEntrega.tex

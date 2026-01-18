@@ -285,4 +285,12 @@ L.~S. Neuwirth, ``Flipd app reduces cellular phone distractions in the
   \url{https://dl.acm.org/doi/10.1177/1521025120921348}
 \BIBentrySTDinterwordspacing
 
+\bibitem{UnicaucaGuiaAnteproyecto}
+\BIBentryALTinterwordspacing
+{Universidad del Cauca, Departamento de Telemática}, \emph{Guía de Apoyo para
+  la Elaboración del Anteproyecto}, Popayán, Colombia, 2025, documento
+  institucional de apoyo académico. [Online]. Available:
+  \url{http://web.unicauca.edu.co/telematica/sites/files/Guia_Anteproyecto.pdf}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

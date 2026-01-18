@@ -12,3 +12,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 0.0.4
 * Se adiciona al documento la sección de Actividades y Cronograma
+
+# Versión 0.0.5
+* Se adiciona al documento la sección de Recursos, Presupuesto y Fuentes de Financiación
