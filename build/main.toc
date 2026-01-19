@@ -1,23 +1,23 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Planteamiento del Problema}{2}{section.1}%
-\contentsline {section}{\numberline {2}Estado del Arte}{3}{section.2}%
+\contentsline {section}{\numberline {2}Estado del Arte}{4}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Uso del smartphone y aplicación de la nomofobia en jóvenes adultos}{4}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Trabajos Relacionados}{5}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Intervenciones psicoeducativas y conductuales}{5}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Aplicaciones móviles orientadas a autorregulación y cambio de hábitos}{6}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.3}Aplicaciones de medición y detección temprana}{6}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.4}Intervenciones digitales basadas en persuasión y automonitoreo}{6}{subsubsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.2.5}Aplicaciones orientadas al contexto educativo}{7}{subsubsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.3}Conclusiones}{8}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Aportes al proyecto}{9}{subsection.2.4}%
-\contentsline {section}{\numberline {3}Objetivos}{9}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Objetivo General}{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Objetivos Especificos}{9}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Metodología}{9}{section.4}%
-\contentsline {section}{\numberline {5}Actividades y Cronograma}{11}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Actividades}{11}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Cronograma de Actividades}{12}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Recursos, Presupuesto y Fuentes de Financiación}{13}{section.6}%
-\contentsline {section}{\numberline {7}Condiciones de Entrega}{14}{section.7}%
-\contentsline {section}{Referencias}{15}{section.7}%
-\contentsline {section}{Acta de Propiedad Intelectual}{17}{section.7}%
+\contentsline {subsection}{\numberline {2.2}Trabajos Relacionados}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Intervenciones psicoeducativas y conductuales}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Aplicaciones móviles orientadas a autorregulación y cambio de hábitos}{7}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Aplicaciones de medición y detección temprana}{7}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Intervenciones digitales basadas en persuasión y automonitoreo}{8}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Aplicaciones orientadas al contexto educativo}{8}{subsubsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.3}Conclusiones}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Aportes al proyecto}{11}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Objetivos}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Objetivo General}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Objetivos Especificos}{11}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Metodología}{12}{section.4}%
+\contentsline {section}{\numberline {5}Actividades y Cronograma}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Actividades}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Cronograma de Actividades}{15}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Recursos, Presupuesto y Fuentes de Financiación}{16}{section.6}%
+\contentsline {section}{\numberline {7}Condiciones de Entrega}{18}{section.7}%
+\contentsline {section}{Referencias}{19}{section.7}%
+\contentsline {section}{Acta de Propiedad Intelectual}{22}{section.7}%

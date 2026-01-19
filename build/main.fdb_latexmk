@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex build/main"] 1768769321.15105 "build/main.aux" "build/main.bbl" "build/main" 1768769354.5549 0
+["bibtex build/main"] 1768796243.10947 "build/main.aux" "build/main.bbl" "build/main" 1768796464.73819 0
   "./Bibliografia.bib" 1768768934 31573 2c3b270cb22d13e877141fd0b1b90b9c ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/bibtex/bst/ieeetran/IEEEtran.bst" 1440622569 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
-  "build/main.aux" 1768769353 6611 8fd6250c9f2cbc84131b6d53dca08712 "pdflatex"
+  "build/main.aux" 1768796463 6617 c8dd7ee2f8a5dea8891baee29d4dec4a "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1768769351.96454 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768769354.55552 0
+["pdflatex"] 1768796462.20243 "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" "build/main.pdf" "main" 1768796464.73882 0
   "C:/Users/freer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1768768565 122695 284aa43fd9596bfdbe93b5e0c6c5df4b ""
   "C:/Users/freer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1768674404 13333487 36f5e3e487a6f7d6d912481b1791c68c ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1736607166 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
@@ -132,23 +132,23 @@
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/freer/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
-  "build/main.aux" 1768769353 6611 8fd6250c9f2cbc84131b6d53dca08712 "pdflatex"
-  "build/main.bbl" 1768769321 14235 6af6dd311e4e3c8b12dcf976ac0df73c "bibtex build/main"
-  "build/main.out" 1768769353 4653 d544682d6a07c094c1368f4f6b6804c5 "pdflatex"
-  "build/main.toc" 1768769353 2080 233514430b2ec17e9d8e71b6d5149236 "pdflatex"
-  "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" 1768768766 4034 cd22b413b0173b111f344f6394a94841 ""
+  "build/main.aux" 1768796463 6617 c8dd7ee2f8a5dea8891baee29d4dec4a "pdflatex"
+  "build/main.bbl" 1768796243 14235 6af6dd311e4e3c8b12dcf976ac0df73c "bibtex build/main"
+  "build/main.out" 1768796463 4653 d544682d6a07c094c1368f4f6b6804c5 "pdflatex"
+  "build/main.toc" 1768796463 2086 2c44121c7d6feb61e2d3b47860f34516 "pdflatex"
+  "c:/Users/freer/Documents/Trabajo de Grado/AnteproyectoLatex/main.tex" 1768769978 4071 c227f1a533881fd00dd778958ec0dfb0 ""
   "capitulos/actividadesCronograma.tex" 1768768142 2557 9f45836490765dc0c18d9d20ac84c038 ""
   "capitulos/condicionesEntrega.tex" 1768706965 813 af91368867d85fa87d03377eff37be58 ""
-  "capitulos/estadoArte.tex" 1768759087 16193 9664e0929a62cedfca1fd3a6ceb92d0d ""
+  "capitulos/estadoArte.tex" 1768796239 15696 af5ef65701a6d455023d583abd3208d8 ""
   "capitulos/metodologia.tex" 1768760436 4870 40e4e1c8e4e7b6b74913e23984f26b51 ""
-  "capitulos/objetivos.tex" 1768759141 1149 fcf2750e2f01980e7523dd8d3eb47815 ""
-  "capitulos/planteamientoProblema.tex" 1768753824 6207 06b2860fb5eb4515048a630ba7fa4924 ""
+  "capitulos/objetivos.tex" 1768796404 1054 51499580577257a1c287043064d919f3 ""
+  "capitulos/planteamientoProblema.tex" 1768796170 6582 e3a57b6da05ca35fc35573aaca064b5c ""
   "capitulos/portada.tex" 1768753418 1015 67ba58e9630e288302131927ed79f4c4 ""
-  "capitulos/propiedadIntelectual.tex" 1768706730 5637 54368159d30974cbe46196693fc03d89 ""
+  "capitulos/propiedadIntelectual.tex" 1768796461 5585 d6b83b6550d5c622277973dce1ccf7e2 ""
   "capitulos/recursos.tex" 1768769351 2698 23dae8e2b05eef47b1692722be422a7c ""
   "figuras/CronogramaActividades.png" 1768767444 140113 bf61f32aff7afaf16487c7d6f028909a ""
   "figuras/LogoUniCauca.png" 1764863559 269365 ab257b2937f9a4ff58d2250db9d29ff5 ""
-  "main.tex" 1768768766 4034 cd22b413b0173b111f344f6394a94841 ""
+  "main.tex" 1768769978 4071 c227f1a533881fd00dd778958ec0dfb0 ""
   "tablas/tablaRecursos.tex" 1768768766 1387 482c8da08ed79bd37faac73ae5a1f475 ""
   "tablas/tablaResumenArte.tex" 1768753132 3819 b63e3646cfaaf8c5608565f83369de0d ""
   (generated)
