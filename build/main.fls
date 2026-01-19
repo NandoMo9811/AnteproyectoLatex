@@ -374,12 +374,6 @@ INPUT capitulos\recursos.tex
 INPUT .\tablas\tablaRecursos.tex
 INPUT .\tablas\tablaRecursos.tex
 INPUT tablas\tablaRecursos.tex
-INPUT .\capitulos\condicionesEntrega.tex
-INPUT .\capitulos\condicionesEntrega.tex
-INPUT capitulos\condicionesEntrega.tex
-INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
-INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
-INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Regular-tlf-ot1.tfm
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxmi.tfm
@@ -396,6 +390,12 @@ INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsyc.tfm
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Users\freer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
+INPUT .\capitulos\condicionesEntrega.tex
+INPUT .\capitulos\condicionesEntrega.tex
+INPUT capitulos\condicionesEntrega.tex
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
+INPUT c:\Users\freer\Documents\Trabajo de Grado\AnteproyectoLatex\build\main.bbl
 INPUT .\capitulos\propiedadIntelectual.tex
 INPUT .\capitulos\propiedadIntelectual.tex
 INPUT capitulos\propiedadIntelectual.tex
