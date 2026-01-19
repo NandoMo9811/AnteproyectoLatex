@@ -21,3 +21,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 0.2.0
 * Cambios a lo largo del archivo, ajustados y definidos por Maria José. Versión que será enviada para revisión del profesor.
+
+# Versión 1.0.0
+* Cambios realizados por solicituyd del profesor Cesar. Versión preliminar para el jurado.
