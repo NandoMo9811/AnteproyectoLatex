@@ -30,3 +30,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 1.0.2 
 * Adición de información del codirector.
+
+# Versión 1.0.3
+* Correción en los verbos del segemento de objetivos. Se busca ser más especifico y no dejar tanta redundacia.
