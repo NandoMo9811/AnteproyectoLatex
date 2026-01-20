@@ -27,3 +27,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 1.0.1
 * Correciones en la tabla de recursos.
+
+# Versión 1.0.2 
+* Adición de información del codirector.
