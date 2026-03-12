@@ -1,0 +1,66 @@
+\begin{figure}[H]
+\centering
+\resizebox{\textwidth}{!}{
+\begin{ganttchart}[
+    vgrid,
+    hgrid,
+    y unit chart=0.8cm,
+    x unit=0.7cm,
+    bar height=0.6,
+    group height=0.7,
+    group peaks height=0.2,
+    group/.style={fill=gray!40},
+    bar/.style={fill=blue!50},
+    milestone/.style={fill=orange}
+]{1}{36}
+
+% Titulo general
+\gantttitle{Cronograma del Proyecto (2026)}{36} \\
+
+% Meses aproximados
+\gantttitle{Abril}{3}
+\gantttitle{Mayo}{4}
+\gantttitle{Junio}{4}
+\gantttitle{Julio}{4}
+\gantttitle{Agosto}{4}
+\gantttitle{Septiembre}{4}
+\gantttitle{Octubre}{4}
+\gantttitle{Noviembre}{4}
+\gantttitle{Diciembre}{5} \\
+
+% Semanas
+\gantttitlelist{1,...,36}{1} \\
+
+% ----- FASE 1
+\ganttgroup{Análisis}{1}{4} \\
+\ganttbar{Análisis del usuario y contexto}{1}{4} \\
+
+% ----- FASE 2
+\ganttgroup{Requisitos}{5}{6} \\
+\ganttbar{Definición de requisitos}{5}{6} \\
+
+% ----- FASE 3
+\ganttgroup{Diseño}{7}{10} \\
+\ganttbar{Diseño de la solución}{7}{10} \\
+
+% ----- FASE 4
+\ganttgroup{Desarrollo}{11}{24} \\
+\ganttbar{Desarrollo de la aplicación}{11}{24} \\
+
+% ----- FASE 5
+\ganttgroup{Evaluación}{25}{30} \\
+\ganttbar{Evaluación con usuarios}{25}{30} \\
+
+% ----- FASE 6
+\ganttgroup{Optimización}{29}{32} \\
+\ganttbar{Ajustes y optimización}{29}{32} \\
+
+% ----- FASE 7
+\ganttgroup{Documentación}{33}{36} \\
+\ganttbar{Documentación y cierre}{33}{36}
+
+\end{ganttchart}
+}
+\caption{Cronograma de actividades del proyecto}
+\label{fig:cronograma}
+\end{figure}
