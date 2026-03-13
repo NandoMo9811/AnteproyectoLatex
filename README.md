@@ -18,3 +18,24 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 0.1.0
 * Primera versión donde se tiene el trabajo completo y listo para revisiones del profesor y compañera.
+
+# Versión 0.2.0
+* Cambios a lo largo del archivo, ajustados y definidos por Maria José. Versión que será enviada para revisión del profesor.
+
+# Versión 1.0.0
+* Cambios realizados por solicituyd del profesor Cesar. Versión preliminar para el jurado.
+
+# Versión 1.0.1
+* Correciones en la tabla de recursos.
+
+# Versión 1.0.2 
+* Adición de información del codirector.
+
+# Versión 1.0.3
+* Correción en los verbos del segemento de objetivos. Se busca ser más especifico y no dejar tanta redundacia.
+
+# Versión 2.0.0
+* Primeras correcciones a los objetivos como resultado de las observaciones de la evaluadora del anteproyecto.
+
+# Versión 2.0.1
+* Segundas correcciones, donde se cambia el cronograma por un diagrama de Gantt y se especifica el tiempo de inicio del proyecto y el de finalización, el inicio el 13 de abril del 2026.
