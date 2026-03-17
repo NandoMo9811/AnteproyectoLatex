@@ -39,3 +39,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 2.0.1
 * Segundas correcciones, donde se cambia el cronograma por un diagrama de Gantt y se especifica el tiempo de inicio del proyecto y el de finalización, el inicio el 13 de abril del 2026.
+
+# Versión 2.0.2
+* Correción del título del Anteproyecto con la finalidad de que tenga el mismo título que elñ formato A. Cabe aclarar que el resto del documento es un tanto diferente a lo que dice el título.
