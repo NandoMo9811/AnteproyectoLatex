@@ -42,3 +42,6 @@ Anteproyecto del trabajo de grado. DISEÑO E IMPLEMENTACIÓN DE UNA APLICACIÓN 
 
 # Versión 2.0.2
 * Correción del título del Anteproyecto con la finalidad de que tenga el mismo título que elñ formato A. Cabe aclarar que el resto del documento es un tanto diferente a lo que dice el título.
+
+# Versión 3.0.0
+* Correciones de erroes ortograficos y sintaxis, versión final para enviar a la aprovación
